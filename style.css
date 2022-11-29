@@ -1,0 +1,26 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: cadetblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+.links {
+    list-style: none;
+}
+
+.links li {
+    background-color: lightblue;
+    border: solid 1px #000000;
+    border-radius: 6px;
+    padding: 4px;
+    margin: 8px;
+    width: max-content;
+}
+
+.link:hover {
+    background-color: lightgreen;
+}
+
